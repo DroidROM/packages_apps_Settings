@@ -39,7 +39,7 @@
             android:layout_height="wrap_content"
             android:text="@string/settings_label"
             android:textColor="?android:attr/textColorPrimary"
-            android:textSize="34sp"
+            android:textSize="24sp"
             style="@style/TextAppearance.SearchBar" />
 
         <Space
